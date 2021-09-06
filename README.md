@@ -7,8 +7,8 @@
 
 <div align="center">
 <a href="https://github.com/jancyrusm">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jancyrusm&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jancyrusm&theme=react&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&theme=react"/>
 </a>
 </div>
 
