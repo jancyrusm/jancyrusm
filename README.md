@@ -7,8 +7,8 @@
 
 <div align="center">
 <a href="https://github.com/jancyrusm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jancyrusm&theme=react&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&theme=react"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jancyrusm&theme=react&show_icons=true&layout=compact"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&theme=react&layout=compact&exclude_repo=github-slideshow,hello-github-actions"/>
 </a>
 </div>
 
