@@ -1,7 +1,7 @@
 ### ![](/header.png)
 
 ### 👤 &nbsp;About Me
-- 💻 I’m currently a freshman student at PUP Manila.
+- 💻 Freshman student at PUP Manila.
 
 ### 📊 &nbsp;GitHub Analytics
 
