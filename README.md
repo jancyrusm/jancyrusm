@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="https://github.com/jancyrusm">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jancyrusm&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jancyrusm&show_icons=true&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&layout=compact&theme=react"/>
 </a>
 </div>
