@@ -1,4 +1,4 @@
-### ![](/header.gif)
+### ![]<div align="center">(/header.gif)</div>
 
 ### 👤 &nbsp;About Me
 - 💻 Sophomore student at PUP Manila.
