@@ -1,4 +1,4 @@
-### ![](/header.png)
+### ![](/header.gif)
 
 ### 👤 &nbsp;About Me
 - 💻 Sophomore student at PUP Manila.
