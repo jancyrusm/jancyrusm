@@ -1,4 +1,4 @@
-<div align="center">(/header.gif)</div>
+![](/header.png)
 
 ### 👤 &nbsp;About Me
 - 💻 Sophomore student at PUP Manila.
