@@ -10,7 +10,7 @@ I'm a 2<sup>nd</sup> year student at PUP Manila.
 ### 📊 GitHub Analytics
 <div align="center">
 <a href="https://github.com/jancyrusm">
-    <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="100em" width="550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=jancyrusm&theme=swift&hide_border=true&include_all_commits=false&count_private=false"/>
   <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=jancyrusm&theme=swift&hide_border=true"/>
 </a>
