@@ -1,9 +1,9 @@
 ### ![](/myheader.png)
 
-### 👤 &nbsp;About Me
+### 👤 &nbsp; About Me
 - 💻 Sophomore student at PUP Manila.
 
-### 📊 &nbsp;GitHub Analytics
+### 📊 &nbsp; GitHub Analytics
 
 <div align="center">
 <a href="https://github.com/jancyrusm">
