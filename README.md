@@ -5,7 +5,7 @@
 <a href="https://github.com/jancyrusm">
   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=hlsl,shaderlab&theme=jolly"/>
   <img height="115em" src="https://github-readme-stats.vercel.app/api?username=jancyrusm&hide_border=false&include_all_commits=false&count_private=false&bg_color=DEG,282a8f,d16aed,7e0068&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=jancyrusm&theme=jolly"/>
+  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=jancyrusm&bg_color=DEG,282a8f,d16aed,7e0068&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 </a>
 </div>
 
