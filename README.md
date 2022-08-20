@@ -3,9 +3,9 @@
 ### 📊 GitHub Analytics
 <div align="center">
 <a href="https://github.com/jancyrusm">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=jancyrusm&theme=jolly&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=jancyrusm&theme=jolly&hide_border=true"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancyrusm&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=jancyrusm&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=jancyrusm&theme=dracula&hide_border=true"/>
 </a>
 </div>
 
