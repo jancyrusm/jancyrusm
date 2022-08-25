@@ -1,4 +1,4 @@
-### ![](/banner.png)
+### ![](/header.png)
 
 ### 📊 GitHub Analytics
 <div align="center">
